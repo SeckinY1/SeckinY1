@@ -22,14 +22,14 @@ Merhaba ben Seçkin Yekrek. Sivas Cumhuriyet Üniversitesi Mekatronik Mühendisl
   <tr>
     <td width="50%" valign="right">
       <h3><strong>Flutter Projelerim</strong></h3>
-        <a target="_blank" href="https://github.com/dumansl/Flutter.git">
-            <img src="https://miro.medium.com/max/1400/1*56Ds1tlEBhTHDXbCCaX15Q.jpeg" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
+        <a target="_blank" href="https://github.com/SeckinY1/Flutter.git">
+            <img src="https://miro.medium.com/max/1400/1*56Ds1tlEBhTHDXbCCaX15Q.jpeg" width="1000" height="250" alt="https://github.com/SeckinY1/Flutter.git"/>
         </a>
     </td>
     <td width="50%" valign="right">
       <h3><strong>Flutter Projelerim</strong></h3>
-        <a target="_blank" href="https://github.com/dumansl/Flutter.git">
-            <img src="https://webmaster.kitchen/wp-content/uploads/flutter-nedir.jpg" width="1000" height="250" alt="https://github.com/dumansl/Flutter.git"/>
+        <a target="_blank" href="https://github.com/SeckinY1/Flutter.git">
+            <img src="https://webmaster.kitchen/wp-content/uploads/flutter-nedir.jpg" width="1000" height="250" alt="https://github.com/SeckinY1/Flutter.git"/>
         </a>
     </td>
   </tr>
