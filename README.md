@@ -1,4 +1,4 @@
-<h3 align="left">Merhabalar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3> 
+<h3 align="left">Merhabalar 👋</h3> 
 
 Merhaba ben Seçkin Yekrek. Sivas Cumhuriyet Üniversitesi Mekatronik Mühendisliği bölümü son sınıf öğrencisiyim. Farklı dallara evrilebilen bir bölüm okuyorum ama kendimi yazılım alanında geliştiriyorum. Bu doğrultuda 2020/2021 yıllarında Teknofest İnsansız Hava Araçları Döner Kanat Kategorisi yarışmalarında otonom kontrol yazılımı üzerine çalıştım. Python programlama dili ile DroneKit, ROS ve Mavlink destekli MavROS çalıştım. Uzun dönem stajın bir kısmında Helimore Havacılık Şirketi' nde otonom kontrol yazılımı, sulama sisteminin yazılımı görevlerini üstlendim. Daha sonra bir Savunma Sanayii şirketinde staja başladım. Şu anda kendimi Flutter' de geliştirmekteyim. Hedefim Flutter 'a hakim olmak ve oyun teknolojisi üzerine çalışmak. Bu süreçte çalıştığım kursun ve projeleri Github da aktif olarak paylaşmayı düşünüyorum. Herkese kolaylıklar dilerim. 
 
