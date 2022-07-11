@@ -27,7 +27,7 @@ Merhaba ben Seçkin Yekrek. Sivas Cumhuriyet Üniversitesi Mekatronik Mühendisl
     </td>
     <td width="50%" valign="right">
       <h3><strong>Flutter Projelerim</strong></h3>
-        <a target="_blank" href="https://github.com/SeckinY1/Flutter.git">
+        <a target="_blank" href="https://github.com/SeckinY1/Flutter-Projects">
             <img src="https://webmaster.kitchen/wp-content/uploads/flutter-nedir.jpg" width="1000" height="250" alt="https://github.com/SeckinY1/Flutter.git"/>
         </a>
     </td>
